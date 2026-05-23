@@ -18,3 +18,6 @@ Students exam scores dataset.
 
 ## How to Run
 Open Jupyter Notebook and run all cells.
+
+## Live project
+https://https://github.com/Benitho54/student-performance-analysis
